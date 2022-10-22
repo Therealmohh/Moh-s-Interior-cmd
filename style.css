@@ -279,7 +279,7 @@ h2{
     gap: 20px;
     
  }
- .fst11{
+ .fstblog-pic{
    margin-top: -2em;
  }
  .blog-img p{
@@ -672,6 +672,10 @@ h2{
       .address{
          margin-top: 5em;
          font-size: 20px;
+      }
+      .fstblog-pic{
+         margin-top: 1em;
+         
       }
 }
 
