@@ -650,7 +650,27 @@ h2{
 
      /* ======FOOTER END======== */
 }
+@media screen and (min-width:1440px){
+   .project-container{
+      margin-left: 7em;
 
+   }
+      .blog-container{
+         margin-left: 4em;
+      }      
+      .ready{
+         margin-left: 13em;
+         font-size: 20px;
+      }
+      .company{
+         margin-top: 5em;
+         margin-left: 2em;
+      }
+      .address{
+         margin-top: 5em;
+         font-size: 20px;
+      }
+}
 
 
 
